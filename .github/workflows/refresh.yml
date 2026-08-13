@@ -1,0 +1,34 @@
+name: Refrescar cartera (auto)
+
+# Revaloriza la cartera con precios actuales cada ~30 min y reescribe los datos
+# que lee la app. Corre en los servidores de GitHub (repo público = minutos
+# GRATIS e ilimitados), sin el PC de Mario. Al hacer commit, GitHub Pages
+# republica solo y la app muestra el dato fresco en el siguiente refresco.
+on:
+  schedule:
+    - cron: "*/30 6-21 * * 1-5"   # cada 30 min, ~08:00-23:00 Madrid, L-V (horario de mercado)
+  workflow_dispatch:               # botón manual para probar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements-refresh.txt
+      - run: python revalue.py
+      - name: Publicar si cambió
+        run: |
+          git config user.name "strata-refresh-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/wallet.json data/today.json data/portfolio-real-watch.json
+          git diff --cached --quiet || (git commit -m "Cartera actualizada [auto]" && git push)
