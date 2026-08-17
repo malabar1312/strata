@@ -10,7 +10,7 @@
    "name": "iShares Core MSCI World",
    "value": 2709.2,
    "pnl": 10.2,
-   "weight": 34.2,
+   "weight": 34.0,
    "sector": "global_developed",
    "shares": 21.047263,
    "cost": 2459.0
@@ -20,7 +20,7 @@
    "name": "iShares Core MSCI EM IMI",
    "value": 1612.11,
    "pnl": 6.4,
-   "weight": 20.0,
+   "weight": 20.2,
    "sector": "emerging_markets",
    "shares": 33.603128,
    "cost": 1514.55
@@ -40,7 +40,7 @@
    "name": "WisdomTree Physical Silver",
    "value": 664.35,
    "pnl": -26.2,
-   "weight": 8.2,
+   "weight": 8.3,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -60,7 +60,7 @@
    "name": "VanEck Defense",
    "value": 694.09,
    "pnl": -0.4,
-   "weight": 8.8,
+   "weight": 8.7,
    "sector": "defense",
    "shares": 11.830327,
    "cost": 697.01
@@ -710,9 +710,9 @@
    "value": 7954.95
   },
   {
-   "time": 1786984691,
+   "time": 1786985725,
    "value": 8015.14
   }
  ],
- "asof": "2026-08-17 16:38 UTC"
+ "asof": "2026-08-17 16:55 UTC"
 }
