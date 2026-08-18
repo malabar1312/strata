@@ -1,15 +1,15 @@
 {
- "total": 7919.2,
- "invested": 7872.21,
+ "total": 7923.14,
+ "invested": 7876.15,
  "cash": 46.99,
- "pnl_eur": 63.56,
- "pnl_pct": 0.8,
+ "pnl_eur": 67.5,
+ "pnl_pct": 0.9,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 2688.58,
-   "pnl": 9.3,
+   "value": 2689.84,
+   "pnl": 9.4,
    "weight": 34.2,
    "sector": "global_developed",
    "shares": 21.047263,
@@ -38,7 +38,7 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 651.48,
+   "value": 651.22,
    "pnl": -27.6,
    "weight": 8.3,
    "sector": "precious_metals",
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 771.62,
-   "pnl": 0.6,
+   "value": 772.94,
+   "pnl": 0.8,
    "weight": 9.8,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,8 +58,8 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 685.69,
-   "pnl": -1.6,
+   "value": 687.11,
+   "pnl": -1.4,
    "weight": 8.7,
    "sector": "defense",
    "shares": 11.830327,
@@ -68,7 +68,7 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 511.48,
+   "value": 511.68,
    "pnl": 2.3,
    "weight": 6.5,
    "sector": "quality_dividend",
@@ -714,9 +714,9 @@
    "value": 8015.61
   },
   {
-   "time": 1787045463,
-   "value": 7919.2
+   "time": 1787048725,
+   "value": 7923.14
   }
  ],
- "asof": "2026-08-18 09:31 UTC"
+ "asof": "2026-08-18 10:25 UTC"
 }
