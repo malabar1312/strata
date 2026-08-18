@@ -1,16 +1,16 @@
 {
- "total": 7899.34,
- "invested": 7852.35,
+ "total": 7863.65,
+ "invested": 7816.66,
  "cash": 46.99,
- "pnl_eur": 43.7,
- "pnl_pct": 0.6,
+ "pnl_eur": 8.01,
+ "pnl_pct": 0.1,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 2686.89,
-   "pnl": 9.3,
-   "weight": 34.2,
+   "value": 2682.68,
+   "pnl": 9.1,
+   "weight": 34.3,
    "sector": "global_developed",
    "shares": 21.047263,
    "cost": 2459.0
@@ -18,9 +18,9 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1567.59,
-   "pnl": 3.5,
-   "weight": 20.0,
+   "value": 1556.83,
+   "pnl": 2.8,
+   "weight": 19.9,
    "sector": "emerging_markets",
    "shares": 33.603128,
    "cost": 1514.55
@@ -28,8 +28,8 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 991.14,
-   "pnl": 2.1,
+   "value": 982.2,
+   "pnl": 1.2,
    "weight": 12.6,
    "sector": "precious_metals",
    "shares": 13.450122,
@@ -38,8 +38,8 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 646.0,
-   "pnl": -28.2,
+   "value": 639.88,
+   "pnl": -28.9,
    "weight": 8.2,
    "sector": "precious_metals",
    "shares": 12.746589,
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 764.39,
-   "pnl": -0.3,
+   "value": 759.65,
+   "pnl": -1.0,
    "weight": 9.7,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,8 +58,8 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 683.56,
-   "pnl": -1.9,
+   "value": 682.73,
+   "pnl": -2.0,
    "weight": 8.7,
    "sector": "defense",
    "shares": 11.830327,
@@ -68,9 +68,9 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 512.78,
+   "value": 512.69,
    "pnl": 2.5,
-   "weight": 6.5,
+   "weight": 6.6,
    "sector": "quality_dividend",
    "shares": 47.04554,
    "cost": 500.09
@@ -714,9 +714,9 @@
    "value": 8015.61
   },
   {
-   "time": 1787063490,
-   "value": 7899.34
+   "time": 1787066966,
+   "value": 7863.65
   }
  ],
- "asof": "2026-08-18 14:31 UTC"
+ "asof": "2026-08-18 15:29 UTC"
 }
