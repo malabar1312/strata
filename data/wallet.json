@@ -1,16 +1,16 @@
 {
- "total": 7849.84,
- "invested": 7802.85,
+ "total": 7876.92,
+ "invested": 7829.93,
  "cash": 46.99,
- "pnl_eur": -5.8,
- "pnl_pct": -0.1,
+ "pnl_eur": 21.28,
+ "pnl_pct": 0.3,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 2649.43,
-   "pnl": 7.7,
-   "weight": 34.0,
+   "value": 2653.01,
+   "pnl": 7.9,
+   "weight": 33.9,
    "sector": "global_developed",
    "shares": 21.047263,
    "cost": 2459.0
@@ -18,8 +18,8 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1554.65,
-   "pnl": 2.6,
+   "value": 1560.19,
+   "pnl": 3.0,
    "weight": 19.9,
    "sector": "emerging_markets",
    "shares": 33.603128,
@@ -28,8 +28,8 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 995.51,
-   "pnl": 2.5,
+   "value": 998.54,
+   "pnl": 2.8,
    "weight": 12.8,
    "sector": "precious_metals",
    "shares": 13.450122,
@@ -38,9 +38,9 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 651.86,
-   "pnl": -27.6,
-   "weight": 8.4,
+   "value": 662.44,
+   "pnl": -26.4,
+   "weight": 8.5,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 772.81,
-   "pnl": 0.8,
+   "value": 776.1,
+   "pnl": 1.2,
    "weight": 9.9,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,8 +58,8 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 668.77,
-   "pnl": -4.1,
+   "value": 669.6,
+   "pnl": -3.9,
    "weight": 8.6,
    "sector": "defense",
    "shares": 11.830327,
@@ -68,8 +68,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 509.82,
-   "pnl": 1.9,
+   "value": 510.05,
+   "pnl": 2.0,
    "weight": 6.5,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -718,9 +718,9 @@
    "value": 7909.14
   },
   {
-   "time": 1787229864,
-   "value": 7849.84
+   "time": 1787233431,
+   "value": 7876.92
   }
  ],
- "asof": "2026-08-20 12:44 UTC"
+ "asof": "2026-08-20 13:43 UTC"
 }
