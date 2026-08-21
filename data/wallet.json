@@ -1,8 +1,8 @@
 {
- "total": 8502.03,
- "invested": 8455.04,
+ "total": 8502.15,
+ "invested": 8455.16,
  "cash": 46.99,
- "pnl_eur": 146.39,
+ "pnl_eur": 146.51,
  "pnl_pct": 1.8,
  "holdings": [
   {
@@ -68,7 +68,7 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 512.71,
+   "value": 512.83,
    "pnl": 2.5,
    "weight": 6.1,
    "sector": "quality_dividend",
@@ -410,9 +410,9 @@
    "value": 8469.57
   },
   {
-   "time": 1787345404,
-   "value": 8502.03
+   "time": 1787347324,
+   "value": 8502.15
   }
  ],
- "asof": "2026-08-21 20:50 UTC"
+ "asof": "2026-08-21 21:22 UTC"
 }
