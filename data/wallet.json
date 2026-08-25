@@ -1,16 +1,16 @@
 {
- "total": 7991.45,
- "invested": 7944.46,
+ "total": 7994.29,
+ "invested": 7947.3,
  "cash": 46.99,
- "pnl_eur": 135.81,
- "pnl_pct": 1.7,
+ "pnl_eur": 138.65,
+ "pnl_pct": 1.8,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 2666.69,
+   "value": 2666.06,
    "pnl": 8.4,
-   "weight": 33.6,
+   "weight": 33.5,
    "sector": "global_developed",
    "shares": 21.047263,
    "cost": 2459.0
@@ -18,9 +18,9 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1574.64,
-   "pnl": 4.0,
-   "weight": 19.8,
+   "value": 1579.85,
+   "pnl": 4.3,
+   "weight": 19.9,
    "sector": "emerging_markets",
    "shares": 33.603128,
    "cost": 1514.55
@@ -28,9 +28,9 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 1037.61,
-   "pnl": 6.9,
-   "weight": 13.1,
+   "value": 1035.59,
+   "pnl": 6.7,
+   "weight": 13.0,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -38,7 +38,7 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 674.04,
+   "value": 674.17,
    "pnl": -25.1,
    "weight": 8.5,
    "sector": "precious_metals",
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 833.06,
-   "pnl": 8.6,
+   "value": 831.62,
+   "pnl": 8.4,
    "weight": 10.5,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,8 +58,8 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 644.28,
-   "pnl": -7.6,
+   "value": 645.11,
+   "pnl": -7.4,
    "weight": 8.1,
    "sector": "defense",
    "shares": 11.830327,
@@ -68,8 +68,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 514.14,
-   "pnl": 2.8,
+   "value": 514.9,
+   "pnl": 3.0,
    "weight": 6.5,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -714,9 +714,9 @@
    "value": 7987.82
   },
   {
-   "time": 1787647174,
-   "value": 7991.45
+   "time": 1787650403,
+   "value": 7994.29
   }
  ],
- "asof": "2026-08-25 08:39 UTC"
+ "asof": "2026-08-25 09:33 UTC"
 }
