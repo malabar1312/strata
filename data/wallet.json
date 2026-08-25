@@ -1,16 +1,16 @@
 {
- "total": 7996.1,
- "invested": 7949.11,
+ "total": 7991.45,
+ "invested": 7944.46,
  "cash": 46.99,
- "pnl_eur": 140.46,
- "pnl_pct": 1.8,
+ "pnl_eur": 135.81,
+ "pnl_pct": 1.7,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 2663.53,
-   "pnl": 8.3,
-   "weight": 33.5,
+   "value": 2666.69,
+   "pnl": 8.4,
+   "weight": 33.6,
    "sector": "global_developed",
    "shares": 21.047263,
    "cost": 2459.0
@@ -18,8 +18,8 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1574.14,
-   "pnl": 3.9,
+   "value": 1574.64,
+   "pnl": 4.0,
    "weight": 19.8,
    "sector": "emerging_markets",
    "shares": 33.603128,
@@ -28,7 +28,7 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 1038.48,
+   "value": 1037.61,
    "pnl": 6.9,
    "weight": 13.1,
    "sector": "precious_metals",
@@ -38,9 +38,9 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 680.54,
-   "pnl": -24.4,
-   "weight": 8.6,
+   "value": 674.04,
+   "pnl": -25.1,
+   "weight": 8.5,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 834.11,
-   "pnl": 8.7,
+   "value": 833.06,
+   "pnl": 8.6,
    "weight": 10.5,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,7 +58,7 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 643.81,
+   "value": 644.28,
    "pnl": -7.6,
    "weight": 8.1,
    "sector": "defense",
@@ -68,8 +68,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 514.5,
-   "pnl": 2.9,
+   "value": 514.14,
+   "pnl": 2.8,
    "weight": 6.5,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -714,9 +714,9 @@
    "value": 7987.82
   },
   {
-   "time": 1787643730,
-   "value": 7996.1
+   "time": 1787647174,
+   "value": 7991.45
   }
  ],
- "asof": "2026-08-25 07:42 UTC"
+ "asof": "2026-08-25 08:39 UTC"
 }
