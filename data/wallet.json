@@ -10,7 +10,7 @@
    "name": "iShares Core MSCI World",
    "value": 2663.11,
    "pnl": 8.3,
-   "weight": 33.4,
+   "weight": 34.2,
    "sector": "global_developed",
    "shares": 21.047263,
    "cost": 2459.0
@@ -20,7 +20,7 @@
    "name": "iShares Core MSCI EM IMI",
    "value": 1584.22,
    "pnl": 4.6,
-   "weight": 19.9,
+   "weight": 20.0,
    "sector": "emerging_markets",
    "shares": 33.603128,
    "cost": 1514.55
@@ -30,7 +30,7 @@
    "name": "iShares Physical Gold",
    "value": 1039.49,
    "pnl": 7.1,
-   "weight": 13.1,
+   "weight": 12.5,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -40,7 +40,7 @@
    "name": "WisdomTree Physical Silver",
    "value": 678.88,
    "pnl": -24.6,
-   "weight": 8.5,
+   "weight": 8.2,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -50,7 +50,7 @@
    "name": "Global X Copper Miners",
    "value": 842.67,
    "pnl": 9.9,
-   "weight": 10.6,
+   "weight": 9.8,
    "sector": "mining",
    "shares": 13.156385,
    "cost": 767.0
@@ -60,7 +60,7 @@
    "name": "VanEck Defense",
    "value": 639.67,
    "pnl": -8.2,
-   "weight": 8.0,
+   "weight": 8.8,
    "sector": "defense",
    "shares": 11.830327,
    "cost": 697.01
@@ -710,9 +710,9 @@
    "value": 7954.95
   },
   {
-   "time": 1787689988,
+   "time": 1787691630,
    "value": 8009.17
   }
  ],
- "asof": "2026-08-25 20:33 UTC"
+ "asof": "2026-08-25 21:00 UTC"
 }
