@@ -1,15 +1,15 @@
 {
- "total": 8538.94,
- "invested": 8491.95,
+ "total": 8510.54,
+ "invested": 8463.55,
  "cash": 46.99,
- "pnl_eur": 183.3,
- "pnl_pct": 2.2,
+ "pnl_eur": 154.9,
+ "pnl_pct": 1.9,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3173.36,
-   "pnl": 7.2,
+   "value": 3166.12,
+   "pnl": 7.0,
    "weight": 37.4,
    "sector": "global_developed",
    "shares": 24.994995,
@@ -18,8 +18,8 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1594.47,
-   "pnl": 5.3,
+   "value": 1592.28,
+   "pnl": 5.1,
    "weight": 18.8,
    "sector": "emerging_markets",
    "shares": 33.603128,
@@ -28,8 +28,8 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 1034.92,
-   "pnl": 6.6,
+   "value": 1029.34,
+   "pnl": 6.0,
    "weight": 12.2,
    "sector": "precious_metals",
    "shares": 13.450122,
@@ -38,8 +38,8 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 680.92,
-   "pnl": -24.3,
+   "value": 676.08,
+   "pnl": -24.9,
    "weight": 8.0,
    "sector": "precious_metals",
    "shares": 12.746589,
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 852.14,
-   "pnl": 11.1,
+   "value": 846.09,
+   "pnl": 10.3,
    "weight": 10.0,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,8 +58,8 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 640.38,
-   "pnl": -8.1,
+   "value": 638.6,
+   "pnl": -8.4,
    "weight": 7.5,
    "sector": "defense",
    "shares": 11.830327,
@@ -68,8 +68,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 515.76,
-   "pnl": 3.1,
+   "value": 515.04,
+   "pnl": 3.0,
    "weight": 6.1,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -410,9 +410,9 @@
    "value": 8469.57
   },
   {
-   "time": 1787753451,
-   "value": 8538.94
+   "time": 1787759938,
+   "value": 8510.54
   }
  ],
- "asof": "2026-08-26 14:10 UTC"
+ "asof": "2026-08-26 15:58 UTC"
 }
