@@ -1,16 +1,16 @@
 {
- "total": 8436.66,
- "invested": 8389.67,
+ "total": NaN,
+ "invested": NaN,
  "cash": 46.99,
- "pnl_eur": 81.02,
- "pnl_pct": 1.0,
+ "pnl_eur": NaN,
+ "pnl_pct": NaN,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3168.87,
-   "pnl": 7.1,
-   "weight": 37.8,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "global_developed",
    "shares": 24.994995,
    "cost": 2959.0
@@ -18,9 +18,9 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1592.12,
-   "pnl": 5.1,
-   "weight": 19.0,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "emerging_markets",
    "shares": 33.603128,
    "cost": 1514.55
@@ -28,9 +28,9 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 994.97,
-   "pnl": 2.5,
-   "weight": 11.9,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -38,9 +38,9 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 661.42,
-   "pnl": -26.5,
-   "weight": 7.9,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -48,9 +48,9 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 822.67,
-   "pnl": 7.3,
-   "weight": 9.8,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "mining",
    "shares": 13.156385,
    "cost": 767.0
@@ -58,9 +58,9 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 636.0,
-   "pnl": -8.8,
-   "weight": 7.6,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "defense",
    "shares": 11.830327,
    "cost": 697.01
@@ -68,9 +68,9 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 513.62,
-   "pnl": 2.7,
-   "weight": 6.1,
+   "value": NaN,
+   "pnl": NaN,
+   "weight": NaN,
    "sector": "quality_dividend",
    "shares": 47.04554,
    "cost": 500.09
@@ -410,9 +410,9 @@
    "value": 8469.57
   },
   {
-   "time": 1788204196,
-   "value": 8436.66
+   "time": 1788218201,
+   "value": NaN
   }
  ],
- "asof": "2026-08-31 19:23 UTC"
+ "asof": "2026-08-31 23:16 UTC"
 }
