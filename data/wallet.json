@@ -1,15 +1,15 @@
 {
- "total": 8378.2,
- "invested": 8331.21,
+ "total": 8419.35,
+ "invested": 8372.36,
  "cash": 46.99,
- "pnl_eur": 22.56,
- "pnl_pct": 0.3,
+ "pnl_eur": 63.71,
+ "pnl_pct": 0.8,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3167.62,
-   "pnl": 7.1,
+   "value": 3179.36,
+   "pnl": 7.4,
    "weight": 38.0,
    "sector": "global_developed",
    "shares": 24.994995,
@@ -18,8 +18,8 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1584.39,
-   "pnl": 4.6,
+   "value": 1587.08,
+   "pnl": 4.8,
    "weight": 19.0,
    "sector": "emerging_markets",
    "shares": 33.603128,
@@ -28,9 +28,9 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 994.43,
-   "pnl": 2.4,
-   "weight": 11.9,
+   "value": 1003.98,
+   "pnl": 3.4,
+   "weight": 12.0,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -38,8 +38,8 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 654.15,
-   "pnl": -27.3,
+   "value": 662.95,
+   "pnl": -26.3,
    "weight": 7.9,
    "sector": "precious_metals",
    "shares": 12.746589,
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 804.51,
-   "pnl": 4.9,
+   "value": 808.46,
+   "pnl": 5.4,
    "weight": 9.7,
    "sector": "mining",
    "shares": 13.156385,
@@ -58,9 +58,9 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 611.98,
-   "pnl": -12.2,
-   "weight": 7.3,
+   "value": 615.41,
+   "pnl": -11.7,
+   "weight": 7.4,
    "sector": "defense",
    "shares": 11.830327,
    "cost": 697.01
@@ -68,8 +68,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 514.13,
-   "pnl": 2.8,
+   "value": 515.12,
+   "pnl": 3.0,
    "weight": 6.2,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -414,9 +414,9 @@
    "value": 8437.98
   },
   {
-   "time": 1788432080,
-   "value": 8378.2
+   "time": 1788447121,
+   "value": 8419.35
   }
  ],
- "asof": "2026-09-03 10:41 UTC"
+ "asof": "2026-09-03 14:52 UTC"
 }
