@@ -1,8 +1,8 @@
 {
- "total": 8428.02,
- "invested": 8381.03,
+ "total": 8428.31,
+ "invested": 8381.32,
  "cash": 46.99,
- "pnl_eur": 72.38,
+ "pnl_eur": 72.67,
  "pnl_pct": 0.9,
  "holdings": [
   {
@@ -10,7 +10,7 @@
    "name": "iShares Core MSCI World",
    "value": 3150.62,
    "pnl": 6.5,
-   "weight": 37.4,
+   "weight": 37.6,
    "sector": "global_developed",
    "shares": 24.994995,
    "cost": 2959.0
@@ -20,7 +20,7 @@
    "name": "iShares Core MSCI EM IMI",
    "value": 1623.7,
    "pnl": 7.2,
-   "weight": 18.9,
+   "weight": 19.4,
    "sector": "emerging_markets",
    "shares": 33.603128,
    "cost": 1514.55
@@ -30,7 +30,7 @@
    "name": "iShares Physical Gold",
    "value": 987.44,
    "pnl": 1.7,
-   "weight": 12.1,
+   "weight": 11.8,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -40,7 +40,7 @@
    "name": "WisdomTree Physical Silver",
    "value": 669.32,
    "pnl": -25.6,
-   "weight": 8.2,
+   "weight": 8.0,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -50,7 +50,7 @@
    "name": "Global X Copper Miners",
    "value": 840.17,
    "pnl": 9.5,
-   "weight": 9.6,
+   "weight": 10.0,
    "sector": "mining",
    "shares": 13.156385,
    "cost": 767.0
@@ -60,7 +60,7 @@
    "name": "VanEck Defense",
    "value": 604.06,
    "pnl": -13.3,
-   "weight": 7.8,
+   "weight": 7.2,
    "sector": "defense",
    "shares": 11.830327,
    "cost": 697.01
@@ -68,9 +68,9 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 505.72,
-   "pnl": 1.1,
-   "weight": 6.1,
+   "value": 506.01,
+   "pnl": 1.2,
+   "weight": 6.0,
    "sector": "quality_dividend",
    "shares": 47.04554,
    "cost": 500.09
@@ -410,9 +410,9 @@
    "value": 8469.57
   },
   {
-   "time": 1788972710,
-   "value": 8428.02
+   "time": 1788979566,
+   "value": 8428.31
   }
  ],
- "asof": "2026-09-09 16:51 UTC"
+ "asof": "2026-09-09 18:46 UTC"
 }
