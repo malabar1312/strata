@@ -1,36 +1,36 @@
 {
- "total": 8288.57,
- "invested": 8241.95,
- "cash": 46.62,
- "pnl_eur": 30.81,
- "pnl_pct": 0.4,
+ "total": 8429.25,
+ "invested": 8382.26,
+ "cash": 46.99,
+ "pnl_eur": 73.61,
+ "pnl_pct": 0.9,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3433.92,
-   "pnl": 5.4,
-   "weight": 41.7,
+   "value": 3150.62,
+   "pnl": 6.5,
+   "weight": 37.4,
    "sector": "global_developed",
-   "shares": 27.375003,
-   "cost": 3259.0
+   "shares": 24.994995,
+   "cost": 2959.0
   },
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1890.06,
-   "pnl": 4.2,
-   "weight": 22.9,
+   "value": 1623.7,
+   "pnl": 7.2,
+   "weight": 18.9,
    "sector": "emerging_markets",
-   "shares": 39.811737,
-   "cost": 1814.05
+   "shares": 33.603128,
+   "cost": 1514.55
   },
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 980.45,
-   "pnl": 1.0,
-   "weight": 11.9,
+   "value": 987.44,
+   "pnl": 1.7,
+   "weight": 12.1,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -38,9 +38,9 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 642.3,
-   "pnl": -28.6,
-   "weight": 7.8,
+   "value": 669.32,
+   "pnl": -25.6,
+   "weight": 8.2,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -48,18 +48,28 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 790.17,
-   "pnl": 3.0,
+   "value": 840.17,
+   "pnl": 9.5,
    "weight": 9.6,
    "sector": "mining",
    "shares": 13.156385,
    "cost": 767.0
   },
   {
+   "sym": "DFEN.DE",
+   "name": "VanEck Defense",
+   "value": 604.06,
+   "pnl": -13.3,
+   "weight": 7.8,
+   "sector": "defense",
+   "shares": 11.830327,
+   "cost": 697.01
+  },
+  {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 505.05,
-   "pnl": 1.0,
+   "value": 506.95,
+   "pnl": 1.4,
    "weight": 6.1,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -77,360 +87,332 @@
   },
   {
    "time": 1767571200,
-   "value": 2334.45
+   "value": 2584.81
   },
   {
    "time": 1767744000,
-   "value": 2351.36
+   "value": 2614.24
   },
   {
    "time": 1767916800,
-   "value": 2481.69
+   "value": 2757.77
   },
   {
    "time": 1768262400,
-   "value": 2733.9
+   "value": 3266.65
   },
   {
    "time": 1768435200,
-   "value": 2764.55
+   "value": 3301.55
   },
   {
    "time": 1768780800,
-   "value": 2754.3
+   "value": 3298.69
   },
   {
    "time": 1768953600,
-   "value": 4157.59
+   "value": 4687.2
   },
   {
    "time": 1769126400,
-   "value": 4307.31
+   "value": 4834.88
   },
   {
    "time": 1769472000,
-   "value": 4415.78
+   "value": 4935.7
   },
   {
    "time": 1769644800,
-   "value": 4907.58
+   "value": 5571.82
   },
   {
    "time": 1769990400,
-   "value": 4168.26
+   "value": 4819.98
   },
   {
    "time": 1770163200,
-   "value": 4369.73
+   "value": 5012.34
   },
   {
    "time": 1770336000,
-   "value": 4148.2
+   "value": 4784.67
   },
   {
    "time": 1770681600,
-   "value": 4259.62
+   "value": 4895.43
   },
   {
    "time": 1770854400,
-   "value": 4182.17
+   "value": 4795.03
   },
   {
    "time": 1771200000,
-   "value": 4171.88
+   "value": 4797.58
   },
   {
    "time": 1771372800,
-   "value": 4234.86
+   "value": 4879.45
   },
   {
    "time": 1771545600,
-   "value": 4338.54
+   "value": 5001.69
   },
   {
    "time": 1771891200,
-   "value": 4470.79
+   "value": 5121.53
   },
   {
    "time": 1772064000,
-   "value": 4476.39
+   "value": 5125.7
   },
   {
    "time": 1772409600,
-   "value": 4512.96
+   "value": 5188.29
   },
   {
    "time": 1772582400,
-   "value": 4397.49
+   "value": 5081.71
   },
   {
    "time": 1772755200,
-   "value": 4324.66
+   "value": 4992.64
   },
   {
    "time": 1773100800,
-   "value": 4497.1
+   "value": 5186.92
   },
   {
    "time": 1773273600,
-   "value": 4391.78
+   "value": 5077.98
   },
   {
    "time": 1773619200,
-   "value": 4262.28
+   "value": 4947.82
   },
   {
    "time": 1773792000,
-   "value": 4184.9
+   "value": 4876.7
   },
   {
    "time": 1773964800,
-   "value": 3920.6
+   "value": 4582.86
   },
   {
    "time": 1774310400,
-   "value": 3915.48
+   "value": 4565.23
   },
   {
    "time": 1774483200,
-   "value": 3866.73
+   "value": 4513.07
   },
   {
    "time": 1774828800,
-   "value": 3959.59
+   "value": 4580.46
   },
   {
    "time": 1775001600,
-   "value": 4110.24
+   "value": 4765.7
   },
   {
    "time": 1775520000,
-   "value": 3988.77
+   "value": 4647.74
   },
   {
    "time": 1775692800,
-   "value": 4148.44
+   "value": 4809.61
   },
   {
    "time": 1776038400,
-   "value": 4118.71
+   "value": 4773.62
   },
   {
    "time": 1776211200,
-   "value": 4249.28
+   "value": 4903.2
   },
   {
    "time": 1776384000,
-   "value": 4362.94
+   "value": 5018.4
   },
   {
    "time": 1776729600,
-   "value": 4226.72
+   "value": 4863.84
   },
   {
    "time": 1776902400,
-   "value": 4233.86
+   "value": 4868.57
   },
   {
    "time": 1777248000,
-   "value": 4190.12
+   "value": 4802.54
   },
   {
    "time": 1777420800,
-   "value": 4190.92
+   "value": 4842.89
   },
   {
    "time": 1777852800,
-   "value": 4326.33
+   "value": 4997.35
   },
   {
    "time": 1778025600,
-   "value": 4398.83
+   "value": 5060.5
   },
   {
    "time": 1778198400,
-   "value": 4462.95
+   "value": 5098.24
   },
   {
    "time": 1778544000,
-   "value": 4730.89
+   "value": 5353.76
   },
   {
    "time": 1778716800,
-   "value": 4839.27
+   "value": 5470.42
   },
   {
    "time": 1779062400,
-   "value": 4568.8
+   "value": 5185.99
   },
   {
    "time": 1779235200,
-   "value": 4570.78
+   "value": 5206.43
   },
   {
    "time": 1779408000,
-   "value": 4610.04
+   "value": 5251.84
   },
   {
    "time": 1779753600,
-   "value": 4649.82
+   "value": 5307.82
   },
   {
    "time": 1779926400,
-   "value": 4717.16
+   "value": 5394.68
   },
   {
    "time": 1780272000,
-   "value": 4841.84
+   "value": 5506.82
   },
   {
    "time": 1780444800,
-   "value": 5015.35
+   "value": 5656.32
   },
   {
    "time": 1780617600,
-   "value": 5829.85
+   "value": 6465.14
   },
   {
    "time": 1780963200,
-   "value": 5678.1
+   "value": 6293.16
   },
   {
    "time": 1781136000,
-   "value": 5631.05
+   "value": 6264.09
   },
   {
    "time": 1781481600,
-   "value": 5964.0
+   "value": 6590.42
   },
   {
    "time": 1781654400,
-   "value": 5972.97
+   "value": 6610.27
   },
   {
    "time": 1781827200,
-   "value": 5796.9
+   "value": 6417.4
   },
   {
    "time": 1782172800,
-   "value": 5693.18
+   "value": 6298.54
   },
   {
    "time": 1782345600,
-   "value": 5568.1
+   "value": 6149.79
   },
   {
    "time": 1782691200,
-   "value": 5917.73
+   "value": 6499.61
   },
   {
    "time": 1782864000,
-   "value": 6369.41
+   "value": 6986.6
   },
   {
    "time": 1783036800,
-   "value": 6439.21
+   "value": 7076.28
   },
   {
    "time": 1783382400,
-   "value": 6616.62
+   "value": 7252.98
   },
   {
    "time": 1783555200,
-   "value": 6623.21
+   "value": 7233.66
   },
   {
    "time": 1783900800,
-   "value": 6569.36
+   "value": 7170.82
   },
   {
    "time": 1784073600,
-   "value": 6578.67
+   "value": 7175.62
   },
   {
    "time": 1784246400,
-   "value": 6832.36
+   "value": 7422.51
   },
   {
    "time": 1784592000,
-   "value": 6995.51
+   "value": 7593.36
   },
   {
    "time": 1784764800,
-   "value": 6925.84
+   "value": 7544.53
   },
   {
    "time": 1785110400,
-   "value": 6919.91
+   "value": 7538.79
   },
   {
    "time": 1785283200,
-   "value": 6823.66
+   "value": 7428.22
   },
   {
    "time": 1785456000,
-   "value": 6876.71
+   "value": 7481.98
   },
   {
    "time": 1785801600,
-   "value": 7083.84
+   "value": 7738.83
   },
   {
    "time": 1785974400,
-   "value": 7169.79
+   "value": 7838.49
   },
   {
    "time": 1786320000,
-   "value": 7261.36
+   "value": 7947.54
   },
   {
    "time": 1786492800,
-   "value": 7315.54
+   "value": 8001.25
   },
   {
    "time": 1786665600,
-   "value": 7262.03
+   "value": 7953.18
   },
   {
    "time": 1787011200,
-   "value": 7177.9
+   "value": 7858.67
   },
   {
-   "time": 1787184000,
-   "value": 7763.61
+   "time": 1787270400,
+   "value": 8469.57
   },
   {
-   "time": 1787529600,
-   "value": 7845.19
-  },
-  {
-   "time": 1787702400,
-   "value": 7873.07
-  },
-  {
-   "time": 1787875200,
-   "value": 7944.18
-  },
-  {
-   "time": 1788220800,
-   "value": 7762.34
-  },
-  {
-   "time": 1788393600,
-   "value": 7851.6
-  },
-  {
-   "time": 1788739200,
-   "value": 7834.61
-  },
-  {
-   "time": 1788998400,
-   "value": 8288.69
-  },
-  {
-   "time": 1789074214,
-   "value": 8288.57
+   "time": 1789080379,
+   "value": 8429.25
   }
  ],
- "asof": "2026-09-10 21:03 UTC"
+ "asof": "2026-09-10 22:46 UTC"
 }
