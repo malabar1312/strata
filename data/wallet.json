@@ -1,16 +1,16 @@
 {
- "total": 8397.0,
- "invested": 8350.01,
+ "total": 8304.15,
+ "invested": 8257.16,
  "cash": 46.99,
- "pnl_eur": 41.36,
- "pnl_pct": 0.5,
+ "pnl_eur": -51.49,
+ "pnl_pct": -0.6,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3152.37,
-   "pnl": 6.5,
-   "weight": 37.8,
+   "value": 3135.37,
+   "pnl": 6.0,
+   "weight": 38.0,
    "sector": "global_developed",
    "shares": 24.994995,
    "cost": 2959.0
@@ -18,8 +18,8 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1614.46,
-   "pnl": 6.6,
+   "value": 1596.15,
+   "pnl": 5.4,
    "weight": 19.3,
    "sector": "emerging_markets",
    "shares": 33.603128,
@@ -28,9 +28,9 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 986.43,
-   "pnl": 1.6,
-   "weight": 11.8,
+   "value": 979.1,
+   "pnl": 0.8,
+   "weight": 11.9,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -38,9 +38,9 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 662.82,
-   "pnl": -26.4,
-   "weight": 7.9,
+   "value": 644.21,
+   "pnl": -28.4,
+   "weight": 7.8,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -48,9 +48,9 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 822.93,
-   "pnl": 7.3,
-   "weight": 9.9,
+   "value": 792.94,
+   "pnl": 3.4,
+   "weight": 9.6,
    "sector": "mining",
    "shares": 13.156385,
    "cost": 767.0
@@ -58,9 +58,9 @@
   {
    "sym": "DFEN.DE",
    "name": "VanEck Defense",
-   "value": 604.77,
+   "value": 605.0,
    "pnl": -13.2,
-   "weight": 7.2,
+   "weight": 7.3,
    "sector": "defense",
    "shares": 11.830327,
    "cost": 697.01
@@ -68,8 +68,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 506.23,
-   "pnl": 1.2,
+   "value": 504.39,
+   "pnl": 0.9,
    "weight": 6.1,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -414,9 +414,9 @@
    "value": NaN
   },
   {
-   "time": 1789036691,
-   "value": 8397.0
+   "time": 1789051765,
+   "value": 8304.15
   }
  ],
- "asof": "2026-09-10 10:38 UTC"
+ "asof": "2026-09-10 14:49 UTC"
 }
