@@ -1,36 +1,36 @@
 {
- "total": 8245.95,
- "invested": 8199.33,
- "cash": 46.62,
- "pnl_eur": -11.81,
- "pnl_pct": -0.1,
+ "total": 8952.46,
+ "invested": 8262.1,
+ "cash": 690.36,
+ "pnl_eur": -14.66,
+ "pnl_pct": -0.2,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3450.07,
-   "pnl": 5.9,
+   "value": 3447.84,
+   "pnl": 5.8,
    "weight": 41.7,
    "sector": "global_developed",
-   "shares": 27.375003,
+   "shares": 27.357262,
    "cost": 3259.0
   },
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 1873.74,
-   "pnl": 3.3,
-   "weight": 22.9,
+   "value": 2172.82,
+   "pnl": 2.8,
+   "weight": 26.3,
    "sector": "emerging_markets",
-   "shares": 39.811737,
-   "cost": 1814.05
+   "shares": 46.166386,
+   "cost": 2112.86
   },
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
    "value": 968.34,
    "pnl": -0.3,
-   "weight": 11.9,
+   "weight": 11.7,
    "sector": "precious_metals",
    "shares": 13.450122,
    "cost": 971.0
@@ -40,7 +40,7 @@
    "name": "WisdomTree Physical Silver",
    "value": 626.94,
    "pnl": -30.3,
-   "weight": 7.8,
+   "weight": 7.6,
    "sector": "precious_metals",
    "shares": 12.746589,
    "cost": 900.0
@@ -48,19 +48,19 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 769.91,
+   "value": 535.83,
    "pnl": 0.4,
-   "weight": 9.6,
+   "weight": 6.5,
    "sector": "mining",
-   "shares": 13.156385,
-   "cost": 767.0
+   "shares": 9.156385,
+   "cost": 533.81
   },
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
    "value": 510.33,
    "pnl": 2.0,
-   "weight": 6.1,
+   "weight": 6.2,
    "sector": "quality_dividend",
    "shares": 47.04554,
    "cost": 500.09
@@ -349,88 +349,92 @@
   },
   {
    "time": 1784246400,
-   "value": 6832.36
+   "value": 6835.16
   },
   {
    "time": 1784592000,
-   "value": 6995.51
+   "value": 6998.32
   },
   {
    "time": 1784764800,
-   "value": 6925.84
+   "value": 6928.63
   },
   {
    "time": 1785110400,
-   "value": 6919.91
+   "value": 6922.74
   },
   {
    "time": 1785283200,
-   "value": 6823.66
+   "value": 6826.49
   },
   {
    "time": 1785456000,
-   "value": 6876.71
+   "value": 6879.54
   },
   {
    "time": 1785801600,
-   "value": 7083.84
+   "value": 7086.74
   },
   {
    "time": 1785974400,
-   "value": 7169.79
+   "value": 7172.69
   },
   {
    "time": 1786320000,
-   "value": 7261.36
+   "value": 7264.29
   },
   {
    "time": 1786492800,
-   "value": 7315.54
+   "value": 7318.46
   },
   {
    "time": 1786665600,
-   "value": 7262.03
+   "value": 7264.97
   },
   {
    "time": 1787011200,
-   "value": 7177.9
+   "value": 7180.81
   },
   {
    "time": 1787184000,
-   "value": 7763.61
+   "value": 7765.54
   },
   {
    "time": 1787529600,
-   "value": 7845.19
+   "value": 7843.5
   },
   {
    "time": 1787702400,
-   "value": 7873.07
+   "value": 7874.22
   },
   {
    "time": 1787875200,
-   "value": 7944.18
+   "value": 7945.92
   },
   {
    "time": 1788220800,
-   "value": 7762.34
+   "value": 7777.1
   },
   {
    "time": 1788393600,
-   "value": 7851.6
+   "value": 7864.19
   },
   {
    "time": 1788739200,
-   "value": 7834.61
+   "value": 7852.66
   },
   {
-   "time": 1788998400,
-   "value": 8288.69
+   "time": 1788912000,
+   "value": 9120.83
   },
   {
-   "time": 1789379845,
-   "value": 8245.95
+   "time": 1789084800,
+   "value": 9061.92
+  },
+  {
+   "time": 1789385671,
+   "value": 8952.46
   }
  ],
- "asof": "2026-09-14 09:57 UTC"
+ "asof": "2026-09-14 11:34 UTC"
 }
