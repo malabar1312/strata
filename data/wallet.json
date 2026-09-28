@@ -1,15 +1,15 @@
 {
- "total": 9082.5,
- "invested": 8392.14,
+ "total": 9042.72,
+ "invested": 8352.36,
  "cash": 690.36,
- "pnl_eur": 115.38,
- "pnl_pct": 1.4,
+ "pnl_eur": 75.6,
+ "pnl_pct": 0.9,
  "holdings": [
   {
    "sym": "IWDA.AS",
    "name": "iShares Core MSCI World",
-   "value": 3532.1,
-   "pnl": 8.4,
+   "value": 3517.32,
+   "pnl": 7.9,
    "weight": 42.1,
    "sector": "global_developed",
    "shares": 27.357262,
@@ -18,9 +18,9 @@
   {
    "sym": "EMIM.AS",
    "name": "iShares Core MSCI EM IMI",
-   "value": 2237.45,
-   "pnl": 5.9,
-   "weight": 26.7,
+   "value": 2221.99,
+   "pnl": 5.2,
+   "weight": 26.6,
    "sector": "emerging_markets",
    "shares": 46.166386,
    "cost": 2112.86
@@ -28,8 +28,8 @@
   {
    "sym": "PPFB.DE",
    "name": "iShares Physical Gold",
-   "value": 951.13,
-   "pnl": -2.0,
+   "value": 945.81,
+   "pnl": -2.6,
    "weight": 11.3,
    "sector": "precious_metals",
    "shares": 13.450122,
@@ -38,8 +38,8 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 624.07,
-   "pnl": -30.7,
+   "value": 622.03,
+   "pnl": -30.9,
    "weight": 7.4,
    "sector": "precious_metals",
    "shares": 12.746589,
@@ -48,8 +48,8 @@
   {
    "sym": "COPX.MI",
    "name": "Global X Copper Miners",
-   "value": 533.91,
-   "pnl": 0.0,
+   "value": 533.27,
+   "pnl": -0.1,
    "weight": 6.4,
    "sector": "mining",
    "shares": 9.156385,
@@ -58,8 +58,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 513.48,
-   "pnl": 2.7,
+   "value": 511.94,
+   "pnl": 2.4,
    "weight": 6.1,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -452,9 +452,9 @@
    "value": NaN
   },
   {
-   "time": 1790600180,
-   "value": 9082.5
+   "time": 1790625668,
+   "value": 9042.72
   }
  ],
- "asof": "2026-09-28 12:56 UTC"
+ "asof": "2026-09-28 20:01 UTC"
 }
