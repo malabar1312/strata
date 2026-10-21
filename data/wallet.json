@@ -1,8 +1,8 @@
 {
- "total": 9012.62,
- "invested": 8322.26,
+ "total": 9012.41,
+ "invested": 8322.05,
  "cash": 690.36,
- "pnl_eur": 45.5,
+ "pnl_eur": 45.29,
  "pnl_pct": 0.5,
  "holdings": [
   {
@@ -38,8 +38,8 @@
   {
    "sym": "PHAG.MI",
    "name": "WisdomTree Physical Silver",
-   "value": 594.44,
-   "pnl": -34.0,
+   "value": 594.88,
+   "pnl": -33.9,
    "weight": 7.1,
    "sector": "precious_metals",
    "shares": 12.746589,
@@ -58,8 +58,8 @@
   {
    "sym": "WQDA.AS",
    "name": "iShares MSCI World Quality Dividend",
-   "value": 528.33,
-   "pnl": 5.6,
+   "value": 527.68,
+   "pnl": 5.5,
    "weight": 6.3,
    "sector": "quality_dividend",
    "shares": 47.04554,
@@ -524,9 +524,9 @@
    "value": NaN
   },
   {
-   "time": 1792598529,
-   "value": 9012.62
+   "time": 1792613850,
+   "value": 9012.41
   }
  ],
- "asof": "2026-10-21 16:02 UTC"
+ "asof": "2026-10-21 20:17 UTC"
 }
